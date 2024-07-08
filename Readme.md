@@ -11,10 +11,10 @@
 mvn clean package
 ```
 
-### Run Command
+### To run WAR file
 Navigate to the target directory:
 ```
-cd ~\Downloads\demo\demo\target
+cd demo\target
 ```
 
 Run the WAR file:
