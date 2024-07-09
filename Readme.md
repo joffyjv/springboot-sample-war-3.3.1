@@ -21,3 +21,4 @@ Run the WAR file:
 ```
 java -jar .\demo-0.0.1-SNAPSHOT.war
 ```
+hello world url: http://localhost:8080/
